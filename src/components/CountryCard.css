@@ -1,0 +1,13 @@
+.country-card {
+    text-align: center;
+  }
+  
+  .country-card img {
+    width: 100%;
+    border-radius: 8px;
+  }
+  
+  .country-card h3 {
+    margin-top: 10px;
+  }
+  
