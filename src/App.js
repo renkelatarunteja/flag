@@ -8,6 +8,5 @@ function App() {
       <CountryList />
     </div>
   );
-}
-
+};
 export default App;
